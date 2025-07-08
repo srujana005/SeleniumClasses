@@ -2,11 +2,14 @@ package collections;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class ArrL1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+	
 
 		List<Integer> l1=new ArrayList();
 		l1.add(38);
